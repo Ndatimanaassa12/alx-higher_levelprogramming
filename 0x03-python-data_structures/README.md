@@ -1,1 +1,1 @@
-structure
+Python structures
